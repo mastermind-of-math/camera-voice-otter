@@ -1,0 +1,52 @@
+#start-btn{
+    width: 80%;
+    font-size: 30px;
+    cursor: crosshair;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+} 
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    cursor: crosshair;
+}
+#logoimg{
+    width: 150px;
+    border-radius: 100px;
+    cursor: crosshair;
+}
+#textbox{
+    width: 300px;
+    cursor: crosshair;
+}
+.container{
+    cursor: crosshair;
+}
+h1:hover{
+    background-color:rgb(255, 255, 255);
+}
+h3:hover{
+    background-color:rgb(255, 255, 255);
+}
+h4:hover{
+    background-color:rgb(255, 255, 255);
+}
+p:hover{
+    background-color:rgb(255, 255, 255);
+}
+label:hover{
+    background-color:rgb(255, 255, 255);
+}
+button:hover{
+    background-color:rgb(255, 255, 255);
+}
+p, h1, h3, h4, label{
+    color:rgb(0, 0, 0);
+    cursor: crosshair;
+}
+body{
+    font-family: monospace;
+    cursor: crosshair;
+    background-color: black;
+}
